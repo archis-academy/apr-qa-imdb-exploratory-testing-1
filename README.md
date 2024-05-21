@@ -7,3 +7,4 @@ The objective of this project is to conduct exploratory testing on the IMDb plat
 2.Experiment with different inputs, interactions, and user scenarios to uncover potential defects and usability issues.
 
 3.Document Findings and push to this repository. 
+
